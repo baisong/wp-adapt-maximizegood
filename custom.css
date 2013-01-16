@@ -1,18 +1,5 @@
 /* BEGIN CUSTOM CSS */
 
-#logo a {
-background-image: url(http://www.maximizegood.org/wp-content/uploads/2013/01/logo.png);
-background-color: transparent;
-padding-left: 350px;
-background-position: 0px;
-background-repeat: no-repeat;
-height: 126px;
-width: 321px;
-text-indent: -3333px;
-padding: 20px 20px 20px 20px;
-display: block;
-}
-
 #main article .post ul.slides {
 	list-style-type: none;
         list-style: none;
