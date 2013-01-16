@@ -1,20 +1,23 @@
 /* BEGIN CUSTOM CSS */
 
-#logo {
+#logo a {
 background-image: url(http://www.maximizegood.org/wp-content/uploads/2013/01/logo.png);
 background-color: transparent;
 padding-left: 350px;
 background-position: 0px;
 background-repeat: no-repeat;
 height: 126px;
+width: 321px;
 text-indent: -3333px;
+padding: 20px 20px 20px 20px;
+display: block;
 }
 
 /* END CUSTOM CSS */
 
 /*-----------------------------------------------------------
 
-  Theme Name: Adapt
+	Theme Name: Adapt
 	Theme URI: http://www.wpexplorer.com/adapt-free-responsive-wordpress-theme
 	Description: Free responsive portfolio/blog theme
 	Author: WPExplorer
